@@ -4,7 +4,7 @@ const app = express();
 const cors = require("cors");
 const router = require("./routes/router");
 require("./db/conn");
-const PORT = process.env.PORT || 4002;
+const PORT = 4002;
 
 
 
