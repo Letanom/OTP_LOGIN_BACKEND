@@ -7,13 +7,10 @@
 - Basic security features
 
 - ## Frontend Tech
+- **MongoDB** 
 - **Node.js**: 
 - **Express.js**: 
-- **MongoDB** 
 - **Nodemon**: 
-- **React Toastify**:
-- **Jest** and **
-
 
 
 
