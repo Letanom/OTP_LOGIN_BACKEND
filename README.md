@@ -28,6 +28,7 @@ Prerequisites
 git clone https://github.com/Letanom/OTP_LOGIN_BACKEND.git
 cd OTP_LOGIN_BACKEND
 npm install
+nodemon .\App.js 
 
 
 
